@@ -1,9 +1,3 @@
-input1intcheck = ""
-input2intcheck = ""
-
-input1floatcheck = ""
-input2floatcheck = ""
-
 input1 = input("input1: ")
 input2 = input("input2: ")
 
